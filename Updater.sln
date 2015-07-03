@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Updater", "Updater.vcproj", "{754BAEA4-C2A6-48EB-B114-F28728E001C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_UNICODE|Win32 = Debug_UNICODE|Win32
+		Debug|Win32 = Debug|Win32
+		Release_UNICODE|Win32 = Release_UNICODE|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Debug_UNICODE|Win32.ActiveCfg = Debug_UNICODE|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Debug_UNICODE|Win32.Build.0 = Debug_UNICODE|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Debug|Win32.Build.0 = Debug|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Release_UNICODE|Win32.ActiveCfg = Release_UNICODE|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Release_UNICODE|Win32.Build.0 = Release_UNICODE|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Release|Win32.ActiveCfg = Release|Win32
+		{754BAEA4-C2A6-48EB-B114-F28728E001C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
